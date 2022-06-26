@@ -1,7 +1,42 @@
-### Hi there, I am Gaurav 👋
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Gaurav
+</h1>
 
-<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Aryan-2-2&show_icons=true&theme=merko" />
-<img align="left" width="47%"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-2-2&layout=compact" />
+<!----------------------------------- About Section ------------------------------------>
+
+<h3 align="center">
+   <i> Aspiring Java Banckend Developer</i>
+</h3
+  
+  
+  
+<!----------------------------------- Tech Stack Section ------------------------------------>
+
+<h2><i>Tech Stack</i></h2>
+
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</p>
+<br>  
+
+<!----------------------------------- Star Section ------------------------------------>
+
+ <h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan-2-2&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Aryan-2-2" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-2-2&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Aryan-2-2" height="139"/>
+</p>
+<br>
+  
 
 
 
