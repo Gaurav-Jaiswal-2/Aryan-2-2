@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Gaurav 👋
+
+<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Aryan-2-2&show_icons=true&theme=merko" />
+<img align="left" width="47%"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-2-2&layout=compact" />
+
+
+
+
 
 <!--
 **Aryan-2-2/Aryan-2-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
