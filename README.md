@@ -8,7 +8,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-   <i> Aspiring Java Banckend Developer</i>
+   <i> Java Banckend Developer</i>
 </h3
   
 
