@@ -89,6 +89,23 @@
 
 
 
+<!----------------------------------- Top Repository Section ------------------------------------>
+
+<h2><i>Top Repositories</i></h2>
+
+
+<p>
+    <a href="https://github.com/Aryan-2-2/Headphone-Zone-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Headphone-Zone-Clone&locale=en&border_radius=0&theme=dark" alt="Aryan-2-2" />
+    </a>
+    <a href="https://github.com/Aryan-2-2/Netmeds-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Netmeds-Clone&locale=en&border_radius=0&theme=dark" alt="Aryan-2-2" />
+    </a>
+   
+</p>
+
+
+
 
 
 
