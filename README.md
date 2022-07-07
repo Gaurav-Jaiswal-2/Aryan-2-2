@@ -70,7 +70,7 @@
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan-2-2&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Aryan-2-2" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-2-2&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Aryan-2-2" height="139"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-2-2&layout=compact&exclude_repo=Netmeds-Clone,Headphone-Zone-Clone,masai-course/gaurav_fw17_1049=Shell&border_radius=0&theme=dark" alt="Aryan-2-2" height="139"/>
 </p>
 <br>
   
@@ -78,7 +78,7 @@
   
  ## :trophy: Recent GitHub Activity
   <br/>
-   <a href="https://github.com/sathish-dhana"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aryan-2-2&custom_title=Aryan-2-2's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Aryan-2-2"><img alt="Aryan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aryan-2-2&custom_title=Aryan-2-2's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
